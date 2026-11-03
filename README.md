@@ -40,6 +40,24 @@
 | [Ray y el Reino Perdido](https://github.com/Juan-GuevaraBusta/Ray-y-el-reino-perdido) | C++/SFML adventure game: guide ant explorer Ray through a fungus-infected colony, fight infected ants, and defeat the Mushroom King in a final labyrinth run. | C++, SFML, CMake |
 | [Fitness App](https://github.com/Juan-GuevaraBusta/fitness-app) | NestJS backend for a personal fitness assistant — goals, custom routines, set logging, and workout history in one API. | NestJS, TypeScript, TypeORM, SQLite |
 
+<!-- DAILY-UPDATE:START -->
+### Daily Dose of Code 🌒
+
+<div align="center">
+
+> *"A language that doesn't affect the way you think about programming is not worth knowing."*
+> — **Alan Perlis**
+
+</div>
+
+| | |
+|---|---|
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 83.9% of 2026 |
+| **Today's Tip** | Use branch protection rules. Your `main` branch is sacred. |
+| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
+| **Last Updated** | November 03, 2026 03:25 UTC |
+<!-- DAILY-UPDATE:END -->
+
 ---
 
 <div align="center">
