@@ -41,21 +41,21 @@
 | [Fitness App](https://github.com/Juan-GuevaraBusta/fitness-app) | NestJS backend for a personal fitness assistant — goals, custom routines, set logging, and workout history in one API. | NestJS, TypeScript, TypeORM, SQLite |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌒
+### Daily Dose of Code 🌓
 
 <div align="center">
 
-> *"A language that doesn't affect the way you think about programming is not worth knowing."*
-> — **Alan Perlis**
+> *"The most important property of a program is whether it accomplishes the intention of its user."*
+> — **C.A.R. Hoare**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 84.0% of 2026 |
-| **Today's Tip** | Use branch protection rules. Your `main` branch is sacred. |
-| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| **Last Updated** | November 03, 2026 13:11 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 84.3% of 2026 |
+| **Today's Tip** | Embrace the terminal. GUIs come and go, the CLI is forever. |
+| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| **Last Updated** | November 04, 2026 13:25 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
