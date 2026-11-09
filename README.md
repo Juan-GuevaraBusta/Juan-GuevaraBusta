@@ -45,17 +45,17 @@
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
+> *"The best way to predict the future is to invent it."*
+> — **Alan Kay**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 85.3% of 2026 |
-| **Today's Tip** | Write tests before you think you need them. Future you will thank you. |
-| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
-| **Last Updated** | November 08, 2026 12:22 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 85.6% of 2026 |
+| **Today's Tip** | Read the error message. Then read it again. The answer is usually there. |
+| **Language to Explore** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
+| **Last Updated** | November 09, 2026 14:36 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
