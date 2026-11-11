@@ -41,21 +41,21 @@
 | [Fitness App](https://github.com/Juan-GuevaraBusta/fitness-app) | NestJS backend for a personal fitness assistant — goals, custom routines, set logging, and workout history in one API. | NestJS, TypeScript, TypeORM, SQLite |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌔
+### Daily Dose of Code 🌕
 
 <div align="center">
 
-> *"Simplicity is the soul of efficiency."*
-> — **Austin Freeman**
+> *"Code is like humor. When you have to explain it, it's bad."*
+> — **Cory House**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 85.9% of 2026 |
-| **Today's Tip** | Use `docker compose` to keep your dev environments reproducible. |
-| **Language to Explore** | ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) |
-| **Last Updated** | November 10, 2026 13:54 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 86.2% of 2026 |
+| **Today's Tip** | Profile before you optimize. Don't guess where the bottleneck is. |
+| **Language to Explore** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Last Updated** | November 11, 2026 13:07 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
