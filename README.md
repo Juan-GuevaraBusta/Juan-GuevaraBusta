@@ -41,21 +41,21 @@
 | [Fitness App](https://github.com/Juan-GuevaraBusta/fitness-app) | NestJS backend for a personal fitness assistant — goals, custom routines, set logging, and workout history in one API. | NestJS, TypeScript, TypeORM, SQLite |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌗
+### Daily Dose of Code 🌘
 
 <div align="center">
 
-> *"The most disastrous thing that you can ever learn is your first programming language."*
-> — **Alan Kay**
+> *"The function of good software is to make the complex appear to be simple."*
+> — **Grady Booch**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.2% of 2026 |
-| **Today's Tip** | Use `pre-commit` hooks to enforce code quality automatically. |
-| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
-| **Last Updated** | November 22, 2026 13:43 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.5% of 2026 |
+| **Today's Tip** | Keep your dependencies updated. Security vulnerabilities compound. |
+| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
+| **Last Updated** | November 23, 2026 16:43 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
